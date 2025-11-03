@@ -8,7 +8,13 @@
 This repository documents my participation in the [#30DayMapChallenge 2025](https://30daymapchallenge.com/),
 a global cartography challenge that consists of creating **one map per day during November**, each day based on a different theme.
 
-## 01 \| Points
+
+## 03 \| Polygons
+**Mean Annual Temperature - Spain (WorldClim v2.1, 2.5 min resolution)** \
+This map shows the mean annual temperature (BIO1 variable) across Spanish provinces, using bioclimatic data from [WorldClim v2.1](https://www.worldclim.org/).  
+The map combines administrative boundaries from the Instituto Geográfico Nacional (IGN) with high-resolution climate raster data to illustrate spatial temperature gradients across the Iberian Peninsula.  
+![](03_Polygons/Mean_Annual_Temperature_Spain.png)
+
 
 ## 06 \| Dimensions
 **3D Relief Map of Asturias, Spain** \
