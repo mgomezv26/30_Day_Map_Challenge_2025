@@ -4,8 +4,8 @@
 **Project:** #30DayMapChallenge 2025  
 **Software:** R, QGIS
 
-This repository documents my participation in the [**#30DayMapChallenge 2025**] <https://30daymapchallenge.com/>
 
+This repository documents my participation in the [#30DayMapChallenge 2025](https://30daymapchallenge.com/),
 a global cartography challenge that consists of creating **one map per day during November**,  
 each day based on a different theme.
 
