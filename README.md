@@ -4,6 +4,16 @@
 **Project:** #30DayMapChallenge 2025  
 **Software:** R, QGIS
 
-This repository documents my participation in the **#30DayMapChallenge 2025**,  
+This repository documents my participation in the [**#30DayMapChallenge 2025**] <https://30daymapchallenge.com/>
+
 a global cartography challenge that consists of creating **one map per day during November**,  
 each day based on a different theme.
+
+## 01 \| Points
+
+## 06 \| Dimensions
+Map beyond 2D. Visualize data using 3D models, extrusions (building heights), depth, time (as a dimension), or an unconventional multivariate approach.
+
+**3D Relief Map of Asturias, Spain** \
+This 3D relief map combines a modern digital elevation model (DEM) of Asturias with an antique geological map published by the Instituto Geográfico Nacional (IGN, Spain) in the mid-20th century.
+![](06_Dimensions/map_asturias_3d_edit.png)
