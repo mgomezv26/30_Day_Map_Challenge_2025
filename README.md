@@ -6,8 +6,7 @@
 
 
 This repository documents my participation in the [#30DayMapChallenge 2025](https://30daymapchallenge.com/),
-a global cartography challenge that consists of creating **one map per day during November**,  
-each day based on a different theme.
+a global cartography challenge that consists of creating **one map per day during November**, each day based on a different theme.
 
 ## 01 \| Points
 
