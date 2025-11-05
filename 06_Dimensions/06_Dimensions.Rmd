@@ -184,6 +184,7 @@ render_highquality(
 )
 ```
 
+The exported map has been edited in Procreate to add the title, the old map, the legend, and the credits on a beige background.
 
 ```{r fig.cap="3D geological map of Asturias", echo=FALSE, out.width='100%'}
 knitr::include_graphics("map_asturias_3d_edit.PNG")
