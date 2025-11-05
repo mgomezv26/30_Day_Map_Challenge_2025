@@ -2,7 +2,7 @@
 
 **Author:** [Mónica Gómez-Vadillo](https://github.com/mgomezv26)  
 **Project:** #30DayMapChallenge 2025  
-**Software:** R, QGIS
+**Software:** R, Python, QGIS
 
 
 This repository documents my participation in the [#30DayMapChallenge 2025](https://30daymapchallenge.com/),
