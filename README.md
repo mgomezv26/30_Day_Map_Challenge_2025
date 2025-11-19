@@ -27,3 +27,9 @@ The map represents 45 memorable locations — from volcanoes and waterfalls to c
 **3D Relief Map of Asturias, Spain** \
 This 3D relief map combines a modern digital elevation model (DEM) of Asturias with an antique geological map published by the Instituto Geográfico Nacional (IGN, Spain) in the mid-20th century.
 ![](06_Dimensions/map_asturias_3d_edit.png)
+
+## 20 \| Water
+**Hydrological Map of Spain** \
+A dark-themed visualization of Spain’s river network using the HydroRIVERS dataset (WWF). River segments are coloured by Strahler stream order, highlighting the hierarchical structure of the main drainage basins, including the Ebro, Duero, Tajo and Guadalquivir.
+
+![](20_Water/rivers_spain_black_turbo_day20.png)
